@@ -1,5 +1,5 @@
 $("#addBurger").on("click", function(event){
-    
+
     event.preventDefault();
 
     console.log("button clicked")
@@ -14,3 +14,5 @@ $("#addBurger").on("click", function(event){
         });
 
 });
+
+//still need on click for devour
